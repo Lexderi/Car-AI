@@ -47,3 +47,6 @@ TagManager:
   - name: Car
     uniqueID: 3341157097
     locked: 0
+  - name: Wall
+    uniqueID: 1692427979
+    locked: 0
